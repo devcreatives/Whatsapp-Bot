@@ -1,0 +1,24 @@
+{
+  "name": "wabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "pm2-runtime start ecosystem.config.js --env production",
+    "dev": "nodemon server.js"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "github-search-repos": "^3.0.0",
+    "google": "^2.1.0",
+    "image-scraper": "^0.2.1",
+    "pm2": "^3.2.2",
+    "yt-search": "^0.2.0"
+  }
+}
