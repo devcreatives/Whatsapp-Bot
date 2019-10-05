@@ -14,3 +14,8 @@ patch:
         patched: '2019-07-05T06:08:25.711Z'
     - pm2 > vizion > async > lodash:
         patched: '2019-07-05T06:08:25.711Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T02:54:55.759Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T02:54:55.759Z'
