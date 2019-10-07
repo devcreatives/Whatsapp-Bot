@@ -22,7 +22,7 @@
     "image-scraper": "^0.2.1",
     "pm2": "^3.2.2",
     "yt-search": "^0.2.0",
-    "snyk": "^1.231.0"
+    "snyk": "^1.231.1"
   },
   "snyk": true
 }

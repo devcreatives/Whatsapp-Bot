@@ -19,3 +19,18 @@ patch:
         patched: '2019-10-05T02:54:55.759Z'
     - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
         patched: '2019-10-05T02:54:55.759Z'
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-07T10:51:37.025Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-07T10:51:37.025Z'
+    - pm2 > @pm2/agent > proxy-agent > https-proxy-agent:
+        patched: '2019-10-07T10:51:37.025Z'
+    - pm2 > @pm2/agent > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-07T10:51:37.025Z'
+    - pm2 > @pm2/io > @pm2/agent-node > proxy-agent > https-proxy-agent:
+        patched: '2019-10-07T10:51:37.025Z'
+    - pm2 > @pm2/io > @pm2/agent-node > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-07T10:51:37.025Z'
+  'npm:lodash:20180130':
+    - google > cheerio > lodash:
+        patched: '2019-10-07T10:51:37.025Z'
