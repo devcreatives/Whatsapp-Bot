@@ -1,5 +1,5 @@
 Whatsapp Bot
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 Introduction:
 
@@ -46,6 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Ramsha196"><img src="https://avatars0.githubusercontent.com/u/46401119?v=4" width="100px;" alt="Ramsha196"/><br /><sub><b>Ramsha196</b></sub></a><br /><a href="https://github.com/viveksharmaui/Whatsapp-Bot/commits?author=Ramsha196" title="Code">💻</a></td>
+    <td align="center"><a href="https://viveksharmaui.js.org"><img src="https://avatars1.githubusercontent.com/u/28563357?v=4" width="100px;" alt="Vivek Anand Sharma"/><br /><sub><b>Vivek Anand Sharma</b></sub></a><br /><a href="#infra-viveksharmaui" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/viveksharmaui/Whatsapp-Bot/commits?author=viveksharmaui" title="Tests">⚠️</a> <a href="https://github.com/viveksharmaui/Whatsapp-Bot/commits?author=viveksharmaui" title="Code">💻</a></td>
   </tr>
 </table>
 
