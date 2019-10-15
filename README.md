@@ -1,4 +1,5 @@
 Whatsapp Bot
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 Introduction:
 
@@ -35,3 +36,19 @@ Any Contributions and idea regarding this project is always welcome .
 
 If you have any idea or want to contribute then please first add issue
 then we will assign that issue to you
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Ramsha196"><img src="https://avatars0.githubusercontent.com/u/46401119?v=4" width="100px;" alt="Ramsha196"/><br /><sub><b>Ramsha196</b></sub></a><br /><a href="https://github.com/viveksharmaui/Whatsapp-Bot/commits?author=Ramsha196" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
