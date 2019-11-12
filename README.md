@@ -5,6 +5,9 @@ Introduction:
 
 It is a chatbot built with node js webhook server, it uses Dialogflow functionality to answer the end user query which it recieves from twilio. 
 
+How to use it:
+Send a WhatsApp message to +1 415 523 8886 with code join cream-buffalo.
+
 What we are achieving to do:
 
 A chatbot can communicate with a real person behaving like a human. You can create chatbots for any business the same as you recruit a person for any department of your company.
