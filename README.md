@@ -12,7 +12,7 @@ It is a chatbot built with `Node JS` webhook server, it uses Dialogflow function
 
 ## How to use it
 
-Send a WhatsApp message to +1 415 523 8886 with code join cream-buffalo.
+Send a WhatsApp message to `+1 415 523 8886` containing code `join cream-buffalo`
 
 ## What we are achieving to do
 

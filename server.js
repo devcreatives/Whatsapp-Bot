@@ -73,7 +73,7 @@ app.post("/webhook", (req, res) => {
   ) {
     return res.json({
       fulfillmentText:
-        "I am whatsapp bot created by Vivek Anand Sharma i am create with Twilio+DialogFlow and Node Js as WebHook Server",
+        "I am whatsapp bot created by Vivek Anand Sharma. I'm created with Twilio+DialogFlow and Node Js as WebHook Server",
       source: "info"
     });
   }
@@ -92,7 +92,7 @@ app.post("/webhook", (req, res) => {
     reqBritannica === undefined
   ) {
     return res.json({
-      fulfillmentText: "Yes i can with command i.e google search anything",
+      fulfillmentText: "Yes I can with command i.e google search anything",
       source: "info"
     });
   }
@@ -110,7 +110,7 @@ app.post("/webhook", (req, res) => {
     reqBritannica === undefined
   ) {
     return res.json({
-      fulfillmentText: "Yes i can with command i.e git search repo-name",
+      fulfillmentText: "Yes I can with command i.e git search repo-name",
       source: "info"
     });
   }
@@ -128,7 +128,7 @@ app.post("/webhook", (req, res) => {
     reqBritannica === undefined
   ) {
     return res.json({
-      fulfillmentText: "Yes i can with command i.e youtube search anything",
+      fulfillmentText: "Yes I can with command i.e youtube search anything",
       source: "info"
     });
   }
