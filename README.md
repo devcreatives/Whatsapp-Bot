@@ -1,45 +1,42 @@
-# Whatsapp Bot
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+<h1 align="center">Whatsapp Bot</h1>
 
-## Introduction:
+<p align="center">
+ <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+  <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square"></a>
+  <a href="#issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+</p>
 
-It is a chatbot built with node js webhook server, it uses Dialogflow functionality to answer the end user query which it recieves from twilio. 
+## Introduction
 
-## How to use it:
+It is a chatbot built with `Node JS` webhook server, it uses Dialogflow functionality to answer the end user query which it receives from twilio.
 
-Send a WhatsApp message to +1 415 523 8886 with code join cream-buffalo.
+## How to use it
 
-## What we are achieving to do:
+Send a WhatsApp message to `+1 415 523 8886` containing code `join cream-buffalo`
 
-A chatbot can communicate with a real person behaving like a human. You can create chatbots for any business the same as you recruit a person for any department of your company.
-Similarly this chatbot can do several things for you. Its purpose is to create an advance bot who doesn't require whatsapp user to keep changing the tabs to do things. Tha bot can download tv serials, songs, movies, books from youtube or any other websites.
+## What we are achieving to do
 
-## Unique Functionalities:
+A chatbot can communicate with a real person behaving like a human. You can create chatbots for any business the same as you recruit a person for any department of your company. Similarly this chatbot can do several things for you. Its purpose is to create an advance bot which doesn't require whatsapp user to keep changing the tabs to do things. The bot can download tv serials, songs, movies, books from YouTube or any other website.
 
-Direct Download videos/tv serials/books via link
-Can search git repository for the end user
-Can search youtube video
-Get celebrities biography
+## Unique Features
 
-## What is our goal:
+- Direct Download videos/tv serials/books via link
+- Can search Github repository for the end user
+- Can search YouTube video
+- Get celebrities' biography
 
-Our goal is to create an advance bot who can do things for the whatsapp user.
-Our future goal is to get this project on advance level, we will add these features soon..
+## What is our goal
 
-We add new features for git by using github api
-We will add the functionality to download youtube videos to mp3 and in any video format also
-User can download whole pdf of that celebrity biography
+Our goal is to create an advance bot which can do things for the whatsapp user. Our future goal is to get this project on advance level, we will add aforementioned features soon. We will add new features for `Github` by using GitHub API and also add the functionality to download YouTube videos to mp3 and in any video format. A user can also be able to download the whole `PDF` file containing biography of that celebrity.
 
-## Found bug:
+## Report a Bug
 
-If you found any bug please add that bug in issue section. so that our team will solve bug as soon as possible.
+If you find any bug, please create an issue in [issues](https://github.com/Techistan/Whatsapp-Bot/issues) section so that our team will fix bug as soon as possible.
 
-## How you can contribute:
+## How you can contribute
 
-Any Contributions and idea regarding this project is always welcome .
-
-If you have any idea or want to contribute then please first add issue
-then we will assign that issue to you
+Any idea or contribution for this project is always welcome. If you have any idea or want to contribute, please first create an issue
+then we will assign that issue to you.
 
 ## Contributors ✨
 
@@ -56,4 +53,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
